@@ -10,3 +10,4 @@
 
 ## 🧠 Data Structures and Algorithms
 4. **ArrayProcessor.cs** — Sorts an array, validates input, and computes a conditional sum. 
+5. **MaxSubarrayAnalyzer.cs** — Compares performance of two max subarray algorithms across files.  
