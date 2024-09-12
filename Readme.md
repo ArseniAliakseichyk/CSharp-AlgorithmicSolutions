@@ -12,3 +12,4 @@
 4. **ArrayProcessor.cs** — Sorts an array, validates input, and computes a conditional sum. 
 5. **MaxSubarrayAnalyzer.cs** — Compares performance of two max subarray algorithms across files.  
 6. **MergeSortProgram.cs** — Performs Merge Sort with array generation and validation.  
+7. **MinMaxFinder.cs** — Finds the minimum and maximum in a given number sequence.  
