@@ -15,3 +15,4 @@
 7. **MinMaxFinder.cs** — Finds the minimum and maximum in a given number sequence.  
 8. **QuickSortProgram.cs** — Applies QuickSort with input validation and OOP design.  
 9. **SearchApp.cs** — Performs binary and interpolation search on a dataset. 
+10. **SortComparison.cs** — Benchmarks four sorting algorithms with comparison/swap metrics. 
