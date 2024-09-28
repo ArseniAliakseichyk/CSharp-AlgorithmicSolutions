@@ -17,3 +17,7 @@
 9. **SearchApp.cs** — Performs binary and interpolation search on a dataset. 
 10. **SortComparison.cs** — Benchmarks four sorting algorithms with comparison/swap metrics. 
 11. **TapeSplitter.cs** — Finds the optimal split to minimize sum difference in array halves.
+---
+
+## 📂 IO Tools and File Processing
+12. **ScholarshipBonusCalculator.cs** — Distributes student bonuses based on file input and GPA brackets.  
