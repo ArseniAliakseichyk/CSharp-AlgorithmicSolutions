@@ -22,3 +22,9 @@
 ## 📂 IO Tools and File Processing
 12. **ScholarshipBonusCalculator.cs** — Distributes student bonuses based on file input and GPA brackets.  
 13. **WordAnalyzer.cs** — Analyzes Polish words to find high palindrome power and pattern-free sequences.
+
+
+---
+
+## 📐 Mathematics and Theory
+14. **ArmstrongChecker.cs** — Identifies Armstrong numbers within a user-defined range. 
