@@ -29,3 +29,4 @@
 ## 📐 Mathematics and Theory
 14. **ArmstrongChecker.cs** — Identifies Armstrong numbers within a user-defined range. 
 15. **CirclePointCounter.cs** — Counts integer coordinate points strictly inside a circle.  
+16. **FactorialCalculator.cs** — Calculates multifactorials (e.g. n!!, n!!!) with input validation.  
