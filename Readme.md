@@ -31,3 +31,4 @@
 15. **CirclePointCounter.cs** — Counts integer coordinate points strictly inside a circle.  
 16. **FactorialCalculator.cs** — Calculates multifactorials (e.g. n!!, n!!!) with input validation.  
 17. **FactorialConverter.cs** — Converts numbers between decimal and factorial numeral systems.  
+18. **IntegralCalculator.cs** — Performs numerical integration using three different methods.  
