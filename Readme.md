@@ -34,3 +34,4 @@
 18. **IntegralCalculator.cs** — Performs numerical integration using three different methods.  
 19. **PowerCalculator.cs** — Recursively computes x^k with clean OOP structure. 
 20. **PrimeCheckerApp.cs** — Checks for "super-primes" based on digit sum properties. 
+21. **PrimeSumPairs.cs** — Finds all prime pairs that sum to a given number.  
