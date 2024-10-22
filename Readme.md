@@ -36,3 +36,4 @@
 20. **PrimeCheckerApp.cs** — Checks for "super-primes" based on digit sum properties. 
 21. **PrimeSumPairs.cs** — Finds all prime pairs that sum to a given number.  
 22. **RectangleAreaCalculator.cs** — Computes the max area of a rectangle given its perimeter. 
+23. **SemiprimeProcessor.cs** — Identifies semiprimes from a list stored in a file.  
