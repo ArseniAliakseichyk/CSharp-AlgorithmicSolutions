@@ -38,3 +38,8 @@
 22. **RectangleAreaCalculator.cs** — Computes the max area of a rectangle given its perimeter. 
 23. **SemiprimeProcessor.cs** — Identifies semiprimes from a list stored in a file.  
 24. **WaterPourOptimizer.cs** — Solves the 2L/3L/11L jug problem up to 1000L target.
+
+---
+
+## ⚙️ Optimization
+25. **CashierAssistant.cs** — Determines optimal change using minimal coins and bills.  
