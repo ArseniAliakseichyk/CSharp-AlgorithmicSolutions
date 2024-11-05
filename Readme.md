@@ -45,3 +45,4 @@
 25. **CashierAssistant.cs** — Determines optimal change using minimal coins and bills.  
 26. **KnapsackOptimizer.cs** — Solves the unbounded knapsack problem using structured logic. 
 27. **MergeCostCalculator.cs** — Calculates min and max merge costs using recursion. 
+28. **OptimalBusAllocator.cs** — Calculates cheapest combination of buses for student transport.
