@@ -53,3 +53,4 @@
 29. **BinaryCodeValidator.cs** — Validates binary strings based on bit rules, parity, and length.
 30. **GuessNumberGame.cs** — Interactive number guessing game with range-based hints.  
 31. **RefactoredLoopDemo.cs** — Demonstrates controlled nested loop with state encapsulation. 
+32. **WeightedSmoothingProgram.cs** — Generates real numbers and applies weighted smoothing.
